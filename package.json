@@ -1,0 +1,12 @@
+{
+  "name": "koa-signin-google",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "repository": "git@github.com:Markario/koa-signin-google.git",
+  "author": "Mark Zepeda <mark@zepeda.co>",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.16.2",
+    "koa-signin": "markario/koa-signin"
+  }
+}
